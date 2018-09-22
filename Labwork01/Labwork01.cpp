@@ -8,7 +8,9 @@ using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	printf("Hello PPoPI!\n");
+	for (int i = 0; i == 3; i++) {
+		printf("Hello PPoPI!\n");
+	}
 	cout<<"Now let's test the factorial function!"<< endl;
 
 	unsigned int n;
